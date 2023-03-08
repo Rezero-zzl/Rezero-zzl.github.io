@@ -5,6 +5,7 @@
       - [2.验证二叉搜索树](/md/lalgorithm/2023-01-02：验证二叉搜索树.md)
       - [3.最小路径和](/md/lalgorithm/2023-01-04：最小路径和.md)
       - [4.用Rand7()实现Rand10()](/md/lalgorithm/2023-01-12：用Rand7实现Rand10.md)
+      - [5.旋转图像](/md/lalgorithm/2023-03-08：旋转图像.md)
    - Linux
       - [1.常用](/md/Linux/1常用.md)
     
